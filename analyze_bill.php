@@ -45,7 +45,7 @@
 	
 	<?php include_once("google_analytics.php") ?>
 	
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 	
     <!-- Bootstrap Core JavaScript -->
 	<!-- Latest compiled and minified JavaScript -->
